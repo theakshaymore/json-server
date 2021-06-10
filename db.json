@@ -1,13 +1,22 @@
 {
   "blogs": [
     {
+      "title": "The Strength of Being Misunderstood",
+      "body": "A founder recently asked me how to stop caring what other people think. I didn’t have an answer, and after reflecting on it more, I think it's the wrong question. Almost everyone cares what someone thinks (though caring what everyone thinks is definitely a mistake), and it's probably important. Caring too much makes you a sheep. But you need to be at least a little in tune with others to do something useful for them. It seems like there are two degrees of freedom: you can choose the people whose opinions you care about (and on what subjects), and you can choose the timescale you care about them on. Most people figure out the former [1] but the latter doesn’t seem to get much attention. The most impressive people I know care a lot about what people think, even people whose opinions they really shouldn’t value (a surprising numbers of them do something like keeping a folder of screenshots of tweets from haters). But what makes them unusual is that they generally care about other people’s opinions on a very long time horizon—as long as the history books get it right, they take some pride in letting the newspapers get it wrong. You should trade being short-term low-status for being long-term high-status, which most people seem unwilling to do. A common way this happens is by eventually being right about an important but deeply non-consensus bet. But there are lots of other ways–the key observation is that as long as you are right, being misunderstood by most people is a strength not a weakness. You and a small group of rebels get the space to solve an important problem that might otherwise not get solved.",
+      "author": "Sam Altman",
+      "tag": "trending",
+      "rev_count": 102,
+      "img": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGlmZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 1
+    },
+    {
       "title": "Let’s talk about my ‘lack of a life.’",
       "body": "You may think it’s quite uninteresting, but read through. I might just surprise you. I apologise, I’m a tad bit rusty (no pun intended) in my writing skills. Owing to the fact that I’ve hardly written anything other than SEO optimised blog posts in the past couple years. But again, as I now look down upon my keyboard, it’s starting to come back to me. ‘Lack of a life’ I’m calling this, because that’s how I see myself currently. It’s actually quite a cliché scenario. You reach a stage in life where everything seems boring. Everything moves way too slow, and there’s hardly any personal (or professional) growth in your life, for that matter. … Countless others have gone through this, and countless others will go through this. And when you do, I want you to come back to this incidence I’ll be telling you. ",
-      "author": "Akshay More",
+      "author": "Dave Lue",
       "tag": "new",
       "rev_count": 75,
       "img": "https://images.unsplash.com/photo-1484627147104-f5197bcd6651?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlmZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "id": 1
+      "id": 2
     },
     {
       "title": "Travelling during pandamic",
@@ -16,7 +25,7 @@
       "tag": "travel",
       "rev_count": 34,
       "img": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "id": 2
+      "id": 3
     },
     {
       "title": "Travelling during pandamic",
@@ -25,7 +34,7 @@
       "tag": "coding",
       "rev_count": 50,
       "img": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "id": 2
+      "id": 4
     },
     {
       "title": "Travelling during pandamic",
@@ -34,7 +43,7 @@
       "tag": "lifestyle",
       "rev_count": 435,
       "img": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "id": 2
+      "id": 5
     },
     {
       "title": "my new blog",
@@ -43,7 +52,7 @@
       "author": "im_PD",
       "tag": "new",
       "rev_count": 56,
-      "id": 3
+      "id": 6
     }
   ]
 }
